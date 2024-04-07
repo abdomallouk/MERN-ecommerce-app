@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "/src/assets/img/steptodown.com504076.jpg",
+    "title": "Featured Products",
+    "subtitle": "Choose Your Products Here",
+    "link": "/shop-grid-standard",
+    "textAlign": "right"
+  },
+  {
+    "id": 2,
+    "image": "/src/assets/img/steptodown.com671791.jpg",
+    "title": "New Products",
+    "subtitle": "Choose Your Products Here",
+    "link": "/shop-grid-standard",
+    "textAlign": "left"
+  }
+]

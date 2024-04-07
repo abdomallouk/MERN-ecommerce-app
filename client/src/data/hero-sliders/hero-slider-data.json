@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "2024 Latest Collection",
+    "subtitle": "Moroccan <br/> Craftsmanship here",
+    "image": "/src/assets/img/martin-adams-zbPDL84kvRg-unsplash.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "2024 Latest Collection",
+    "subtitle": "Moroccan <br/> Craftsmanship here",
+    "image": "/src/assets/img/steptodown.com594367.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "title": "2024 Latest Collection",
+    "subtitle": "Moroccan <br/> Craftsmanship here",
+    "image": "/src/assets/img/steptodown.com961018.jpg",
+    "url": "/shop-grid-standard"
+  }
+]
